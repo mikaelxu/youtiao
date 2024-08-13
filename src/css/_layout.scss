@@ -40,7 +40,7 @@ article {
 
 .tdbc-column-container {
   display: grid;
-  grid-gap: 2em;
+  grid-gap: 1em;
   grid-template-columns: repeat(auto-fit, minmax(25ch, 1fr));
 }
 
@@ -63,10 +63,10 @@ ul.tdbc-column-container {
 
 .tdbc-hero {
   display: grid;
-  min-height: 40vh;
+  min-height: 20vh;
   place-content: center;
-  padding-top: 10vh;
-  padding-bottom: 10vh;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
   text-align: center;
 }
 
