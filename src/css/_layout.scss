@@ -93,3 +93,16 @@ hr {
   margin-bottom: 4rem;
   border: 1px solid tdbc-color("secondary");
 }
+
+.logo-image {
+  width: auto; /* Adjust the percentage based on how big you want the logo relative to its container */
+  max-width: none; /* Prevent any inherited max-width from limiting the size */
+  height: 100%;
+}
+
+.logo {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically if needed */
+}
+
