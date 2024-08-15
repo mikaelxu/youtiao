@@ -6,7 +6,7 @@ const eleventySass = require("@11tyrocks/eleventy-plugin-sass-lightningcss");
 // Helper packages
 const slugify = require("slugify");
 const markdownIt = require("markdown-it");
-const markdownItAnchor = require("markdown-it-anchor");
+const markdownItAnchor = require("markdown-it-anchor");;
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -20,6 +20,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
   /* Markdown Overrides */
+  /*
   let markdownLibrary = markdownIt({
     html: true,
   }).use(markdownItAnchor, {
@@ -36,6 +37,7 @@ module.exports = function (eleventyConfig) {
       }),
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
+  */
 
   return {
     dir: {
