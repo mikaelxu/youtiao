@@ -1,50 +1,30 @@
 ---
 title: "Contact Us"
-description: 'Our locations and contact information.'
+description: 'Our Outlets and contact information.'
 ---
 
 
 # Locations
 
-We have offices and teams in Singapore, Japan and China. We provide design services and application support from all these 3 locations.
+## Novena Outlet
+Square 2, #02-08/09<br>
+10 Sinaran Drive<br>
+Singapore 307506<br>
+Tel: 80238019<br>
 
+## Tampines Outlet
+Century Square, #B1-19<br>
+2 Tampines Central 5<br>
+Singapore 529509<br>
+Tel: 66353521<br>
+\
+For feedback & franchise enquiries, please email<br> 
+contact`at`mryoutiao.com (replace `at` with @)
 
-## Offices
+[Facebook Page](https://www.facebook.com/Mr-YouTiao-176562662381541/)
 
-### Singapore Headquarter
-7030 Ang Mo Kio Ave 5
+Order Delivery available at [Oddle Eats](https://mryoutiao.oddle.me/en_SG), [Grabfood](https://food.grab.com/sg/en/restaurant/mr-youtiao-square-2-delivery/4-CZCHMF6KA8EFKE), [Foodpanda](https://www.foodpanda.sg/restaurant/new/x5xw/mr-youtiao-cafe-and-meals-square-2), [Deliveroo](https://deliveroo.com.sg/menu/singapore/novena/mr-youtiao-at-square-2?day=today&geohash=w21ze03pxz2t&time=ASAP) or [Makan Master](https://makanmaster2.frasersproperty.com/#frasers-staging/$/116d69abb5b0f9e2c5ff8b3e46744c3a?page=delivery)
+<br>
+<br>
 
-#09-102 Northstar
-
-Singapore 569880
-
-Tel: +65-91875537
-
-
-### Japan Office (Kumamoto)
-729-41, 2F
-
-Mori, Ozu, Kikuchi-gun
-
-Kumamoto Prefecture
-
-Japan 869-1217
-
-Tel: +81-96-282-8122
-
-
-### China Office (Shanghai)
-RM 1707, Shanghai Ships Building
-
-3255 Zhou-jia-zui Road
-
-Shanghai 200093
-
-P.R.China
-
-
-### Email
-info`at`semipin.com (replace `at` with @)
-
----
 

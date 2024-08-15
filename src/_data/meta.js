@@ -1,8 +1,8 @@
 module.exports = {
   url: process.env.URL || "http://localhost:8080",
-  siteName: "Welcome to SemiPIN",
+  siteName: "Welcome to Mr YouTiao",
   siteDescription:
-    "Your instrumentation desgin partner.",
-  authorName: "SemiPIN",
+    "Traditional Youtiao with a Twist!.",
+  authorName: "Mr YouTiao",
   twitterUsername: "", // no `@`
 };
