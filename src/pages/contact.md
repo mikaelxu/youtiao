@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-description: 'Our Outlets and contact information.'
+description: 'Our outlets and contact information.'
 ---
 
 
